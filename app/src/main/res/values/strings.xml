@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_alarm</string>
+    <string name="cmdNewAlarmText">+</string>
+    <string name="cmdSaveText">Speichern</string>
+    <string name="cmdCancelText">Abbrechen</string>
+    <string name="txtXHoursText">In:</string>
+    <string name="txtTimeText">Um:</string>
+    <string name="txtHoursText">Stunden</string>
+    <string name="txtHourMinBreak">:</string>
+
+</resources>
